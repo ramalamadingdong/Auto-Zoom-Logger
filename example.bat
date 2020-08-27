@@ -1,0 +1,1 @@
+python zoom_joiner.py https://zoom.us/j/addresss password
